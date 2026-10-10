@@ -1,5 +1,5 @@
 [package]
-name = "mandelbrot_sdl"
+name = "double_pendulum_sdl"
 version = "0.1.0"
 edition = "2021"
 
